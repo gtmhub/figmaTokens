@@ -1,9 +1,11 @@
 [
     {
+        "meta": "deafult",
         "Title": "Popover title",
         "Body": "Longer text that will appear in the body"
     },
     {
+        "meta": "onboarding step 1",
         "Title": "Popover title",
         "Body": "Longer text that will appear in the body"
     }

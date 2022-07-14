@@ -1,9 +1,11 @@
 [
     {
+        "meta": "informational",
         "Title": "Dialog title",
         "Body": "Longer text that will appear in the body"
     },
     {
+        "meta": "warning",
         "Title": "Dialog title",
         "Body": "Longer text that will appear in the body"
     }

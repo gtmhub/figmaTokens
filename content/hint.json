@@ -1,8 +1,10 @@
 [
     {
+        "meta": "warning",
         "Message": "Validation message text that will appear in the hint"
     },
     {
+        "meta": "error",
         "Message": "Validation message text that will appear in the hint"
     }
 ]
