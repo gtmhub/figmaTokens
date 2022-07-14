@@ -1,10 +1,10 @@
 [
     {
-        "Title": "Popover title",
+        "Title": "Dialog title",
         "Body": "Longer text that will appear in the body"
     },
     {
-        "Title": "Popover title",
+        "Title": "Dialog title",
         "Body": "Longer text that will appear in the body"
     }
 ]
