@@ -1,9 +1,11 @@
 [
     {
+        "meta": "success",
         "Title": "Alert title",
         "Body": "Longer message text that will appear in the body"
     },
     {
+        "meta": "error",
         "Title": "Alert title",
         "Body": "Longer message text that will appear in the body"
     }

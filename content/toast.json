@@ -1,8 +1,10 @@
 [
     {
+        "meta": "deafult",
         "Message": "Toast message text notifying the user about something"
     },
     {
+        "meta": "deafult when copying in whiteboard",
         "Message": "Toast message text notifying the user about something"
     }
 ]
