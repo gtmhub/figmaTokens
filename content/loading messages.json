@@ -1,10 +1,10 @@
 [
     {
-        "meta": "loading KPIs",
-        "Message": "You KPIs are loading the most recent data."
+        "meta": "loading short",
+        "Message": "Loading KPIs..."
     },
     {
-        "meta": "loading OKRs longer than usual",
-        "Message": "Loading your OKRs is taking too long. Check www.gtmhub.com/service for related service issues and disruptions."
+        "meta": "loading long",
+        "Message": "Loading your OKRs is taking longer than usual. Check www.gtmhub.com/service for related service issues and disruptions."
     }
 ]
