@@ -6,13 +6,13 @@
     {
         "meta": "warning toast",
         "Message": "Changing this setting will make the OKR private"
-    }
-]
+    },
+    {
         "meta": "informational toast",
         "Message": "Note copied"
     },
-{
+    {
         "meta": "error toast",
-        "Message": "You don’t have permission to update this OKR"
-    },
+        "Message": "You don't have permission to update this OKR"
+    }
 ]

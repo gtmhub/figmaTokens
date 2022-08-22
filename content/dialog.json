@@ -1,22 +1,22 @@
 [
     {
-        "meta": informational dialog",
-        "Title": "You’re on the Essentials plan",
+        "meta": "informational dialog",
+        "Title": "You're on the Essentials plan",
         "Body": "Welcome to Essentials. This free plan gives you the basics needed to be successful with OKRs."
     },
     {
         "meta": "success dialog",
         "Title": "Activate username?",
-        "Body": "They’ll have access to your organization’s files."
+        "Body": "They'll have access to your organization's files."
     },
     {
-        "meta": warning dialog",
+        "meta": "warning dialog",
         "Title": "Deactivate username?",
         "Body": "Data related to this user will remain visible. They can be reactivated at any time.."
     },
     {
         "meta": "destructive dialog",
         "Title": "Delete username?",
-        "Body": "Any data related to them will be deleted. This can’t be undone."
+        "Body": "Any data related to them will be deleted. This can't be undone."
     }
 ]
