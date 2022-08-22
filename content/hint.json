@@ -1,10 +1,18 @@
 [
     {
-        "meta": "warning",
-        "Message": "Validation message text that will appear in the hint"
+        "meta": "success standout",
+        "Message": "You updated the OKR name"
     },
     {
-        "meta": "error",
-        "Message": "Validation message text that will appear in the hint"
+        "meta": "warning standout",
+        "Message": "Changing this setting will make the OKR private"
     }
+]
+        "meta": "informational standout",
+        "Message": "You’re in preview mode."
+    },
+{
+        "meta": "error standout",
+        "Message": "You don’t have permission to update this OKR."
+    },
 ]

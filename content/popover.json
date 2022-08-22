@@ -1,12 +1,17 @@
 [
     {
-        "meta": "deafult",
-        "Title": "Popover title",
-        "Body": "Longer text that will appear in the body"
+        "meta": "critical",
+        "Title": "12 days to upgrade",
+        "Body": "Your plan expires soon. Upgrade to continue."
     },
     {
-        "meta": "onboarding step 1",
-        "Title": "Popover title",
-        "Body": "Longer text that will appear in the body"
+        "meta": "default",
+        "Title": "Brainstorm with Whiteboards",
+        "Body": "Use Whiteboards to ideate and draft OKRs."
+    },
+    {
+        "meta": "success",
+        "Title": "You updated your plan",
+        "Body": "You now have access to Whiteboards."
     }
 ]
