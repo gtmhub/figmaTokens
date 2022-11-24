@@ -716,7 +716,7 @@
               "y": "0",
               "blur": "0",
               "spread": "2",
-              "color": "{Warning.gtmds_color_warning-8}",
+              "color": "{Warning.gtmds_color_warning-6}",
               "type": "dropShadow"
             },
             {
@@ -877,41 +877,41 @@
     },
     "Success": {
       "gtmds_color_success-color": {
-        "value": "{Success.gtmds_color_success-8}",
+        "value": "{Success.gtmds_color_success-6}",
         "type": "color"
       },
       "gtmds_color_success-12": {
-        "value": "{gtmds_color_teal-12}",
+        "value": "{gtmds_color_green-12}",
         "type": "color"
       },
       "gtmds_color_success-10": {
-        "value": "{gtmds_color_teal-10}",
+        "value": "{gtmds_color_green-10}",
         "type": "color"
       },
-      "gtmds_color_success-8": {
-        "value": "{gtmds_color_teal-8}",
+      "gtmds_color_success-7": {
+        "value": "{gtmds_color_green-7}",
         "type": "color"
       },
       "gtmds_color_success-6": {
-        "value": "{gtmds_color_teal-6}",
+        "value": "{gtmds_color_green-6}",
         "type": "color"
       },
       "gtmds_color_success-5": {
-        "value": "{gtmds_color_teal-5}",
+        "value": "{gtmds_color_green-5}",
         "type": "color"
       },
       "gtmds_color_success-3": {
-        "value": "{gtmds_color_teal-3}",
+        "value": "{gtmds_color_green-3}",
         "type": "color"
       },
       "gtmds_color_success-2": {
-        "value": "{gtmds_color_teal-2}",
+        "value": "{gtmds_color_green-2}",
         "type": "color"
       }
     },
     "Info": {
       "gtmds_color_info-color": {
-        "value": "{Info.gtmds_color_info-8}",
+        "value": "{Info.gtmds_color_info-7}",
         "type": "color"
       },
       "gtmds_color_info-12": {
@@ -922,7 +922,7 @@
         "value": "{gtmds_color_blue-10}",
         "type": "color"
       },
-      "gtmds_color_info-8": {
+      "gtmds_color_info-7": {
         "value": "{gtmds_color_blue-7}",
         "type": "color"
       },
@@ -933,7 +933,7 @@
     },
     "Warning": {
       "gtmds_color_warning-color": {
-        "value": "{Warning.gtmds_color_warning-10}",
+        "value": "{Warning.gtmds_color_warning-6}",
         "type": "color"
       },
       "gtmds_color_warning-12": {
@@ -944,8 +944,8 @@
         "value": "{gtmds_color_yellow-10}",
         "type": "color"
       },
-      "gtmds_color_warning-8": {
-        "value": "{gtmds_color_yellow-7}",
+      "gtmds_color_warning-6": {
+        "value": "{gtmds_color_yellow-6}",
         "type": "color"
       },
       "gtmds_color_warning-5": {
@@ -959,27 +959,27 @@
     },
     "Error": {
       "gtmds_color_error-color": {
-        "value": "{Error.gtmds_color_error-8}",
+        "value": "{Error.gtmds_color_error-7}",
         "type": "color"
       },
       "gtmds_color_error-10": {
-        "value": "{gtmds_color_red-10}",
+        "value": "{gtmds_color_magenta-10}",
         "type": "color"
       },
-      "gtmds_color_error-8": {
-        "value": "{gtmds_color_red-8}",
+      "gtmds_color_error-7": {
+        "value": "{gtmds_color_magenta-7}",
         "type": "color"
       },
       "gtmds_color_error-6": {
-        "value": "{gtmds_color_red-6}",
+        "value": "{gtmds_color_magenta-6}",
         "type": "color"
       },
       "gtmds_color_error-5": {
-        "value": "{gtmds_color_red-5}",
+        "value": "{gtmds_color_magenta-5}",
         "type": "color"
       },
       "gtmds_color_error-3": {
-        "value": "{gtmds_color_red-3}",
+        "value": "{gtmds_color_magenta-3}",
         "type": "color"
       }
     },
@@ -993,11 +993,11 @@
         "type": "color"
       },
       "gtmds_color_disabled-color": {
-        "value": "{gtmds_color_gray-4}",
+        "value": "{gtmds_color_gray-6}",
         "type": "color"
       },
       "gtmds_color-style_disabled-color": {
-        "value": "rgba({gtmds_color_white}, 0.6)",
+        "value": "rgba({gtmds_color_white}, 0.7)",
         "type": "color"
       }
     },
@@ -2062,7 +2062,7 @@
       "type": "color"
     },
     "gtmds_input_border-color-error": {
-      "value": "{Error.gtmds_color_error-8}",
+      "value": "{Error.gtmds_color_error-7}",
       "type": "color"
     },
     "gtmds_input-label_color": {
@@ -2913,7 +2913,7 @@
       },
       "Warning": {
         "gtmds_toast_separator-color": {
-          "value": "{Warning.gtmds_color_warning-8}",
+          "value": "{Warning.gtmds_color_warning-6}",
           "type": "color"
         },
         "gtmds_toast_background-color": {
