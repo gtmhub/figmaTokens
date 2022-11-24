@@ -8,6 +8,10 @@
       "value": "#8e1356",
       "type": "color"
     },
+    "gtmds_color_magenta-8": {
+      "value": "#ba165b",
+      "type": "color"
+    },
     "gtmds_color_magenta-7": {
       "value": "#d0265c",
       "type": "color"
@@ -44,8 +48,8 @@
       "value": "#957707",
       "type": "color"
     },
-    "gtmds_color_yellow-8": {
-      "value": "#bc9711",
+    "gtmds_color_yellow-7": {
+      "value": "#dcb423",
       "type": "color"
     },
     "gtmds_color_yellow-6": {
@@ -64,72 +68,72 @@
       "value": "#fffce6",
       "type": "color"
     },
+    "gtmds_color_green-12": {
+      "value": "#002b22",
+      "type": "color"
+    },
+    "gtmds_color_green-10": {
+      "value": "#005543",
+      "type": "color"
+    },
+    "gtmds_color_green-7": {
+      "value": "#09ae73",
+      "type": "color"
+    },
+    "gtmds_color_green-6": {
+      "value": "#15c679",
+      "type": "color"
+    },
+    "gtmds_color_green-5": {
+      "value": "#60da98",
+      "type": "color"
+    },
+    "gtmds_color_green-3": {
+      "value": "#86ecbb",
+      "type": "color"
+    },
+    "gtmds_color_green-2": {
+      "value": "#d0efe4",
+      "type": "color"
+    },
+    "gtmds_color_green-1": {
+      "value": "#e6f5f0",
+      "type": "color"
+    },
     "gtmds_color_blue-12": {
-      "value": "#002c5f",
+      "value": "#0d1d43",
       "type": "color"
     },
     "gtmds_color_blue-10": {
-      "value": "#003a7b",
+      "value": "#00288c",
       "type": "color"
     },
     "gtmds_color_blue-8": {
-      "value": "#0057d7",
+      "value": "#0052cb",
+      "type": "color"
+    },
+    "gtmds_color_blue-7": {
+      "value": "#0769fc",
       "type": "color"
     },
     "gtmds_color_blue-6": {
-      "value": "#417aea",
+      "value": "#418dff",
       "type": "color"
     },
     "gtmds_color_blue-5": {
-      "value": "#75a2f7",
-      "type": "color"
-    },
-    "gtmds_color_blue-4": {
-      "value": "#9bbeff",
+      "value": "#6baefc",
       "type": "color"
     },
     "gtmds_color_blue-3": {
-      "value": "#aed2fe",
+      "value": "#94c5ff",
       "type": "color"
     },
     "gtmds_color_blue-2": {
-      "value": "#d3eaff",
+      "value": "#c6e0ff",
       "type": "color"
     },
     "gtmds_color_blue-1": {
-      "value": "#e5f2ff",
-      "type": "color"
-    },
-    "gtmds_color_teal-12": {
-      "value": "#006c66",
-      "type": "color"
-    },
-    "gtmds_color_teal-10": {
-      "value": "#01837b",
-      "type": "color"
-    },
-    "gtmds_color_teal-8": {
-      "value": "#00a688",
-      "type": "color"
-    },
-    "gtmds_color_teal-6": {
-      "value": "#18c191",
-      "type": "color"
-    },
-    "gtmds_color_teal-5": {
-      "value": "#66dec1",
-      "type": "color"
-    },
-    "gtmds_color_teal-3": {
-      "value": "#afefe0",
-      "type": "color"
-    },
-    "gtmds_color_teal-2": {
-      "value": "#caf1e8",
-      "type": "color"
-    },
-    "gtmds_color_teal-1": {
-      "value": "#e3fcef",
+      "value": "#ddecff",
       "type": "color"
     },
     "gtmds_color_gray-12": {
@@ -448,7 +452,7 @@
         "type": "color"
       },
       "gtmds_color_text-color-error": {
-        "value": "{gtmds_color_red-10}",
+        "value": "{gtmds_color_magenta-8}",
         "type": "color"
       }
     },
@@ -843,7 +847,7 @@
         "type": "color"
       },
       "gtmds_color_primary-10": {
-        "value": "{gtmds_color_blue-10}",
+        "value": "{gtmds_color_gray-10}",
         "type": "color"
       },
       "gtmds_color_primary-9": {
@@ -851,7 +855,7 @@
         "type": "color"
       },
       "gtmds_color_primary-8": {
-        "value": "{gtmds_color_blue-8}",
+        "value": "{gtmds_color_gray-8}",
         "type": "color"
       },
       "gtmds_color_primary-6": {
@@ -859,7 +863,7 @@
         "type": "color"
       },
       "gtmds_color_primary-5": {
-        "value": "{gtmds_color_blue-5}",
+        "value": "{gtmds_color_gray-5}",
         "type": "color"
       },
       "gtmds_color_primary-color-focus": {
@@ -919,7 +923,7 @@
         "type": "color"
       },
       "gtmds_color_info-8": {
-        "value": "{gtmds_color_blue-8}",
+        "value": "{gtmds_color_blue-7}",
         "type": "color"
       },
       "gtmds_color_info-2": {
@@ -941,7 +945,7 @@
         "type": "color"
       },
       "gtmds_color_warning-8": {
-        "value": "{gtmds_color_yellow-8}",
+        "value": "{gtmds_color_yellow-7}",
         "type": "color"
       },
       "gtmds_color_warning-5": {
@@ -1065,7 +1069,7 @@
         "type": "color"
       },
       "gtmds_color_data-2": {
-        "value": "{gtmds_color_blue-8}",
+        "value": "{gtmds_color_blue-7}",
         "type": "color"
       },
       "gtmds_color_data-3": {
@@ -1077,7 +1081,7 @@
         "type": "color"
       },
       "gtmds_color_data-5": {
-        "value": "{gtmds_color_yellow-8}",
+        "value": "{gtmds_color_yellow-7}",
         "type": "color"
       },
       "gtmds_color_data-6": {
@@ -1154,7 +1158,7 @@
       "type": "color"
     },
     "gtmds_action-item_background-color-selected": {
-      "value": "{gtmds_color_blue-8}",
+      "value": "{gtmds_color_blue-7}",
       "type": "color"
     },
     "gtmds_action-item_color-selected": {
@@ -1166,7 +1170,7 @@
       "type": "color"
     },
     "gtmds_action-item_border-color-focused": {
-      "value": "{gtmds_color_blue-8}",
+      "value": "{gtmds_color_blue-7}",
       "type": "color"
     },
     "gtmds_action-item_color-disabled": {
@@ -1418,7 +1422,7 @@
       "type": "color"
     },
     "gtmds_avatar_background-color": {
-      "value": "{gtmds_color_blue-8}",
+      "value": "{gtmds_color_blue-7}",
       "type": "color"
     },
     "gtmds_avatar-group_border-color": {
@@ -2286,7 +2290,7 @@
         },
         "Blue": {
           "gtmds_label_background-color": {
-            "value": "{gtmds_color_blue-8}",
+            "value": "{gtmds_color_blue-7}",
             "type": "color"
           }
         },
@@ -2436,7 +2440,7 @@
       "type": "spacing"
     },
     "gtmds_list-item_background-color-selected": {
-      "value": "{gtmds_color_blue-8}",
+      "value": "{gtmds_color_blue-7}",
       "type": "color"
     },
     "gtmds_list-item_color-selected": {
@@ -3467,7 +3471,7 @@
       "type": "color"
     },
     "gtmds_timeline-dot_color": {
-      "value": "{gtmds_color_blue-8}",
+      "value": "{gtmds_color_blue-7}",
       "type": "color"
     },
     "gtmds_timeline-dot_border-color": {
@@ -3582,7 +3586,7 @@
           "y": "1",
           "blur": "2",
           "spread": "0",
-          "color": "rgba({gtmds_color_blue-8}, 0.3)",
+          "color": "rgba({gtmds_color_blue-7}, 0.3)",
           "type": "innerShadow"
         },
         "type": "boxShadow"
