@@ -283,7 +283,8 @@
         "letterSpacing": "{gtmds_letter-spacing-none}",
         "paragraphSpacing": "{gtmds_paragraph-spacing-none}",
         "textCase": "{gtmds_text-case-none}",
-        "textDecoration": "{gtmds_text-decoration-none}"
+        "textDecoration": "{gtmds_text-decoration-none}",
+        "paragraphIndent": "{gtmds_paragraph-indent-none}"
       },
       "type": "typography"
     },
@@ -766,31 +767,31 @@
       "type": "textDecoration"
     },
     "gtmds_font-family-h1": {
-      "value": "SF Pro Display",
+      "value": "Aeonik TRIAL",
       "type": "fontFamilies"
     },
     "gtmds_font-family-h2": {
-      "value": "SF Pro Display",
+      "value": "Aeonik TRIAL",
       "type": "fontFamilies"
     },
     "gtmds_font-family-h3": {
-      "value": "SF Pro Display",
+      "value": "Aeonik TRIAL",
       "type": "fontFamilies"
     },
     "gtmds_font-family-h4": {
-      "value": "SF Pro Display",
+      "value": "Aeonik TRIAL",
       "type": "fontFamilies"
     },
     "gtmds_font-family-h5": {
-      "value": "SF Pro Text",
+      "value": "SF Pro",
       "type": "fontFamilies"
     },
     "gtmds_font-family-h6": {
-      "value": "SF Pro Text",
+      "value": "SF Pro",
       "type": "fontFamilies"
     },
     "gtmds_font-family-p": {
-      "value": "SF Pro Text",
+      "value": "SF Pro",
       "type": "fontFamilies"
     },
     "Header Size": {
@@ -1036,7 +1037,7 @@
       }
     },
     "gtmds_font-size-base": {
-      "value": "14",
+      "value": "16",
       "type": "fontSizes"
     },
     "gtmds_space-xxs": {
@@ -1112,6 +1113,10 @@
     "gtmds_icon_border-width-lg": {
       "value": "2.5",
       "type": "borderWidth"
+    },
+    "gtmds_paragraph-indent-none": {
+      "value": "0",
+      "type": "other"
     }
   },
   "action item": {
