@@ -721,7 +721,7 @@
               "y": "0",
               "blur": "0",
               "spread": "2",
-              "color": "{Warning.gtmds_color_warning-6}",
+              "color": "{Warning.gtmds_color_warning-7}",
               "type": "dropShadow"
             },
             {
@@ -938,7 +938,7 @@
     },
     "Warning": {
       "gtmds_color_warning-color": {
-        "value": "{Warning.gtmds_color_warning-6}",
+        "value": "{Warning.gtmds_color_warning-7}",
         "type": "color"
       },
       "gtmds_color_warning-12": {
@@ -949,8 +949,8 @@
         "value": "{gtmds_color_yellow-10}",
         "type": "color"
       },
-      "gtmds_color_warning-6": {
-        "value": "{gtmds_color_yellow-6}",
+      "gtmds_color_warning-7": {
+        "value": "{gtmds_color_yellow-7}",
         "type": "color"
       },
       "gtmds_color_warning-5": {
@@ -1869,7 +1869,7 @@
       "type": "color"
     },
     "gtmds_chip-button-icon_color-hover": {
-      "value": "{gtmds_color_gray-13}",
+      "value": "{gtmds_color_gray-12}",
       "type": "color"
     },
     "gtmds_chip-button_background-color": {
@@ -1877,7 +1877,7 @@
       "type": "color"
     },
     "gtmds_chip-button_background-color-hover": {
-      "value": "{gtmds_color_gray-4}",
+      "value": "{gtmds_color_gray-5}",
       "type": "color"
     },
     "gtmds_chip-label": {
@@ -2059,7 +2059,7 @@
       "type": "color"
     },
     "gtmds_input_border-color": {
-      "value": "{gtmds_color_gray-4}",
+      "value": "{gtmds_color_gray-5}",
       "type": "color"
     },
     "gtmds_input_border-color-hover": {
@@ -2671,11 +2671,11 @@
         "type": "color"
       },
       "gtmds_notification-icon_color": {
-        "value": "{gtmds_color_gray-13}",
+        "value": "{gtmds_color_gray-12}",
         "type": "color"
       },
       "gtmds_notification_color": {
-        "value": "{gtmds_color_gray-13}",
+        "value": "{gtmds_color_gray-12}",
         "type": "color"
       },
       "gtmds_notification-panel-item_box-shadow": {
@@ -2922,7 +2922,7 @@
       },
       "Warning": {
         "gtmds_toast_separator-color": {
-          "value": "{Warning.gtmds_color_warning-6}",
+          "value": "{Warning.gtmds_color_warning-7}",
           "type": "color"
         },
         "gtmds_toast_background-color": {
@@ -3157,19 +3157,19 @@
   },
   "rating": {
     "gtmds_rating_color-progress": {
-      "value": "{gtmds_color_purple-8}",
+      "value": "{Primary.gtmds_color_primary-12}",
       "type": "color"
     },
     "gtmds_rating_color": {
-      "value": "{gtmds_color_purple-3}",
+      "value": "{Primary.gtmds_color_primary-9}",
       "type": "color"
     },
     "gtmds_rating_color-disabled": {
-      "value": "{gtmds_color_gray-4}",
+      "value": "{gtmds_color_gray-5}",
       "type": "color"
     },
     "gtmds_rating_color-achieved": {
-      "value": "{gtmds_color_teal-8}",
+      "value": "{gtmds_color_green-7}",
       "type": "color"
     },
     "gtmds_rating_background-color-hover": {
@@ -3380,7 +3380,7 @@
       }
     },
     "gtmds_selection-component-label_color": {
-      "value": "{gtmds_color_gray-13}",
+      "value": "{gtmds_color_gray-12}",
       "type": "color"
     },
     "gtmds_selection-component-label_color-disabled": {
@@ -3476,7 +3476,7 @@
       "type": "sizing"
     },
     "gtmds_timeline-line_color": {
-      "value": "{gtmds_color_gray-4}",
+      "value": "{gtmds_color_gray-5}",
       "type": "color"
     },
     "gtmds_timeline-dot_color": {
@@ -3568,7 +3568,7 @@
         "type": "color"
       },
       "gtmds_menu_color": {
-        "value": "{gtmds_color_gray-13}",
+        "value": "{gtmds_color_gray-12}",
         "type": "color"
       },
       "gtmds_menu_border-radius": {
