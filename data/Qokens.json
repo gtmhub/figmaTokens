@@ -1,5 +1,9 @@
 {
   "global": {
+    "gtmds_color_magenta-12": {
+      "value": "#3d1336",
+      "type": "color"
+    },
     "gtmds_color_magenta-10": {
       "value": "#601546",
       "type": "color"
@@ -1065,7 +1069,7 @@
     },
     "Charts": {
       "gtmds_color_data-1": {
-        "value": "{gtmds_color_teal-6}",
+        "value": "{gtmds_color_green-6}",
         "type": "color"
       },
       "gtmds_color_data-2": {
@@ -1073,15 +1077,15 @@
         "type": "color"
       },
       "gtmds_color_data-3": {
-        "value": "{gtmds_color_purple-6}",
+        "value": "{gtmds_color_magenta-12}",
         "type": "color"
       },
       "gtmds_color_data-4": {
-        "value": "{gtmds_color_red-8}",
+        "value": "{gtmds_color_magenta-7}",
         "type": "color"
       },
       "gtmds_color_data-5": {
-        "value": "{gtmds_color_yellow-7}",
+        "value": "{gtmds_color_yellow-6}",
         "type": "color"
       },
       "gtmds_color_data-6": {
