@@ -277,7 +277,7 @@
     "H1 heading": {
       "value": {
         "fontFamily": "{gtmds_font-family-h1}",
-        "fontWeight": "{gtmds_font-weight-600}",
+        "fontWeight": "{gtmds_font-weight-500}",
         "lineHeight": "{gtmds_line-height-base}",
         "fontSize": "{Header Size.gtmds_font-size-h1}",
         "letterSpacing": "{gtmds_letter-spacing-none}",
@@ -291,10 +291,10 @@
     "H2 heading": {
       "value": {
         "fontFamily": "{gtmds_font-family-h2}",
-        "fontWeight": "{gtmds_font-weight-600}",
+        "fontWeight": "{gtmds_font-weight-500}",
         "lineHeight": "{gtmds_line-height-base}",
         "fontSize": "{Header Size.gtmds_font-size-h2}",
-        "letterSpacing": "{gtmds_letter-spacing-sm}",
+        "letterSpacing": "{gtmds_letter-spacing-none}",
         "paragraphSpacing": "{gtmds_paragraph-spacing-none}",
         "textCase": "{gtmds_text-case-none}",
         "textDecoration": "{gtmds_text-decoration-none}"
@@ -304,10 +304,10 @@
     "H3 heading": {
       "value": {
         "fontFamily": "{gtmds_font-family-h3}",
-        "fontWeight": "{gtmds_font-weight-600}",
+        "fontWeight": "{gtmds_font-weight-500}",
         "lineHeight": "{gtmds_line-height-base}",
         "fontSize": "{Header Size.gtmds_font-size-h3}",
-        "letterSpacing": "{gtmds_letter-spacing-sm}",
+        "letterSpacing": "{gtmds_letter-spacing-none}",
         "paragraphSpacing": "{gtmds_paragraph-spacing-none}",
         "textCase": "{gtmds_text-case-none}",
         "textDecoration": "{gtmds_text-decoration-none}"
@@ -317,10 +317,10 @@
     "H4 heading": {
       "value": {
         "fontFamily": "{gtmds_font-family-h4}",
-        "fontWeight": "{gtmds_font-weight-600}",
+        "fontWeight": "{gtmds_font-weight-500}",
         "lineHeight": "{gtmds_line-height-base}",
         "fontSize": "{Header Size.gtmds_font-size-h4}",
-        "letterSpacing": "{gtmds_letter-spacing-sm}",
+        "letterSpacing": "{gtmds_letter-spacing-none}",
         "paragraphSpacing": "{gtmds_paragraph-spacing-none}",
         "textCase": "{gtmds_text-case-none}",
         "textDecoration": "{gtmds_text-decoration-none}"
@@ -330,7 +330,7 @@
     "H5 heading": {
       "value": {
         "fontFamily": "{gtmds_font-family-h5}",
-        "fontWeight": "{gtmds_font-weight-600}",
+        "fontWeight": "{gtmds_font-weight-700}",
         "lineHeight": "{gtmds_line-height-base}",
         "fontSize": "{Header Size.gtmds_font-size-h5}",
         "letterSpacing": "{gtmds_letter-spacing-none}",
@@ -343,7 +343,7 @@
     "H6 heading": {
       "value": {
         "fontFamily": "{gtmds_font-family-h6}",
-        "fontWeight": "{gtmds_font-weight-600}",
+        "fontWeight": "{gtmds_font-weight-500}",
         "lineHeight": "{gtmds_line-height-base}",
         "fontSize": "{Header Size.gtmds_font-size-h6}",
         "letterSpacing": "{gtmds_letter-spacing-none}",
@@ -812,7 +812,7 @@
         "type": "fontSizes"
       },
       "gtmds_font-size-h5": {
-        "value": "18",
+        "value": "16",
         "type": "fontSizes"
       },
       "gtmds_font-size-h6": {
