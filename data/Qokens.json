@@ -1665,15 +1665,15 @@
       "type": "borderRadius"
     },
     "gtmds_button_size-height-lg": {
-      "value": "{gtmds_size-lg}*2+{gtmds_size-md}",
+      "value": "{gtmds_size-lg}*3-{gtmds_size-sm}",
       "type": "sizing"
     },
     "gtmds_button_size-height-md": {
-      "value": "{gtmds_size-md}*4",
+      "value": "{gtmds_size-md}*4+{gtmds_size-sm}",
       "type": "sizing"
     },
     "gtmds_button_size-height-sm": {
-      "value": "{gtmds_size-sm}*5",
+      "value": "{gtmds_size-sm}*6",
       "type": "sizing"
     },
     "gtmds_button-label_font-weight": {
