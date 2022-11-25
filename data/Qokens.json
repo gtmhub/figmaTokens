@@ -2089,11 +2089,11 @@
   },
   "inputs": {
     "gtmds_input_size-height-sm": {
-      "value": "{gtmds_size-lg}*2",
+      "value": "{gtmds_size-sm}*9",
       "type": "sizing"
     },
     "gtmds_input_size-height-lg": {
-      "value": "{gtmds_size-xl}+{gtmds_size-lg}",
+      "value": "{gtmds_size-lg}*3-{gtmds_size-sm}",
       "type": "sizing"
     },
     "gtmds_input_size-width": {
@@ -2117,7 +2117,7 @@
       "type": "spacing"
     },
     "gtmds_input_padding-left-lg": {
-      "value": "{gtmds_size-md}",
+      "value": "{gtmds_size-lg}",
       "type": "spacing"
     },
     "gtmds_input_padding-right": {
