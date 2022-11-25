@@ -2141,19 +2141,19 @@
       "type": "color"
     },
     "gtmds_input_border-color": {
-      "value": "{gtmds_color_gray-5}",
+      "value": "{Primary.gtmds_color_primary-5}",
       "type": "color"
     },
     "gtmds_input_border-color-hover": {
-      "value": "{gtmds_color_gray-6}",
+      "value": "{Primary.gtmds_color_primary-6}",
       "type": "color"
     },
     "gtmds_input_border-color-focus": {
-      "value": "{Primary.gtmds_color_primary-color-focus}",
+      "value": "{Primary.gtmds_color_primary-12}",
       "type": "color"
     },
     "gtmds_input_border-color-error": {
-      "value": "{Error.gtmds_color_error-7}",
+      "value": "{Error.gtmds_color_error-color}",
       "type": "color"
     },
     "gtmds_input-label_color": {
@@ -2193,7 +2193,7 @@
       "type": "color"
     },
     "gtmds_input-assistive_color-error": {
-      "value": "{Error.gtmds_color_error-8}",
+      "value": "{Text.gtmds_color_text-color-error}",
       "type": "color"
     },
     "gtmds_input-icon_color": {
