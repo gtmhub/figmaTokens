@@ -770,6 +770,52 @@
         }
       }
     },
+    "info": {
+      "state": {
+        "Focus Outline": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "2",
+              "color": "{Info.gtmds_color_info-7}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1",
+              "color": "{gtmds_color_white}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "Active Outline": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "2",
+              "color": "{Info.gtmds_color_info-10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1",
+              "color": "{gtmds_color_white}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
+    },
     "gtmds_text-decoration-underline": {
       "value": "underline",
       "type": "textDecoration"
