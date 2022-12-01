@@ -1,8 +1,23 @@
-[
+[    
     {
         "meta": "error banner",
-        "Title": "No internet connection",
-        "Body": "Check your internet connection and try again."
+        "Title": "Missing data schema",
+        "Body": "There was an error when retrieving the remote data schema."
+    },
+    {
+        "meta": "error banner",
+        "Title": "Missing data schema",
+        "Body": "The data schema of the data source is missing. Contact us through Intercom."
+    },
+    {
+        "meta": "error banner",
+        "Title": "Bad request",
+        "Body": "The server cannot process the request due to an apparent client error."
+    },
+    {
+        "meta": "error banner",
+        "Title": "Server Error",
+        "Body": "An internal server error has occurred. Please try again later."
     },
     {
         "meta": "info banner",
@@ -17,6 +32,11 @@
     {
         "meta": "warning banner",
         "Title": "Password expires in 3 days",
-        "Body": "Update your password to continue using Gtmhub,"
+        "Body": "Update your password to continue using Gtmhub."
+    },
+    {
+        "meta": "warning banner",
+        "Title": "Unstable connection",
+        "Body": "There is a problem with the connection and we are unable to save changes. We are trying to reconnect..."
     }
 ]

@@ -8,11 +8,23 @@
         "Message": "Changing this setting will make the OKR private"
     },
     {
+        "meta": "warning standout",
+        "Message": "Changing the trigger to an item that doesn’t support the existing conditions will reset your workflow"
+    },
+    {
         "meta": "informational standout",
         "Message": "You're in preview mode."
     },
     {
         "meta": "error standout",
-        "Message": "You don't have permission to update this OKR."
+        "Message": "You don't have permission to update this OKR"
+    },  
+    {
+        "meta": "error standout",
+        "Body": "Objectives must have an owner to be published"
+    },  
+    {
+        "meta": "error standout",
+        "Body": "This email is not part of your account"
     }
 ]

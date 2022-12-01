@@ -10,13 +10,137 @@
         "Body": "They'll have access to your organization's files."
     },
     {
+        "meta": "success dialog",
+        "Title": "Activate team?",
+        "Body": "The team will be able to own OKRs."
+    },
+    {
         "meta": "warning dialog",
         "Title": "Deactivate username?",
-        "Body": "Data related to this user will remain visible. They can be reactivated at any time.."
+        "Body": "Data related to this user will remain visible. They can be reactivated at any time."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Deactivate team?",
+        "Body": "Deactivated teams will still be visible, but can't own OKRs. You can reactivate the team at any time."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Unauthorized access",
+        "Body": "Authentication is required, please sign in."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Confirm saving",
+        "Body": "Please note that your existing Key Results will be deleted."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Confirm moving Objective",
+        "Body": "Moving this Objective will break the links of the contained Key Results. Once broken you can't recover them."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "This Key Result is dynamic",
+        "Body": "If you decide to proceed with cascading, this Key Result will stop having dynamic progress."
     },
     {
         "meta": "destructive dialog",
         "Title": "Delete username?",
         "Body": "Any data related to them will be deleted. This can't be undone."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete custom field?",
+        "Body": "This custom field is assigned to 11 amount of items. Once deleted the information will not be visible."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete custom field?",
+        "Body": "Once deleted you can't recover it."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete connection?",
+        "Body": "If you delete this connection data sources using this connection and their entities will be deleted too."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete data source?",
+        "Body": "If you delete this data source entities powered by this data source will be deleted too."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete entity?",
+        "Body": "If you delete this entity any insights using data from it will break. Also the dynamic Key Results based on the affected insights won’t update anymore. If you still want to delete the entity, please type its name in the input field below."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete insightboard?",
+        "Body": "Once deleted the insightboard can't be recovered."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete insight?",
+        "Body": "Once deleted the insight can't be recovered."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete demo session?",
+        "Body": "If you delete the session the Objectives that are in this session will be deleted and they could not be reverted."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete session?",
+        "Body": "If you delete the session the Objectives that are in it will be moved to 'Objectives without a session' under OKRs > Browse sessions > Objectives without a session. Once there, they cannot be edited but when moved back to a session, the alignment tree you had before will be reproduced as it was."
+    },
+    {
+        "meta": "destructive dialog",
+        "Title": "Delete tag?",
+        "Body": "This tag is being used in 42 OKRs, Insightboards or reports. By deleting it, all data will be lost. This action is irreversible!"
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Forbidden",
+        "Body": "You don't have the neccessary permissions. Please contact your account administrator."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Item not found",
+        "Body": "The item you are looking for might be deleted or with restricted access. Please make sure the URL is correct."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Item can't be modified",
+        "Body": "The item you are trying to modify is locked. Please unlock it first."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Request was denied",
+        "Body": "There are some network connectivity issues. This could be caused by temporary network failure with your Internet connection. If this message persists appearing and you are using any security tool, please consider adding an exception for 'gtmhub.com'. Remember that Gtmhub does not serve any ads, nor anything else to disturb your privacy."
+    },
+    {
+        "meta": "error dialog",
+        "Body": "An unexpected error has occurred."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Login error",
+        "Body": "There has been an error entering from the invite link."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Login error",
+        "Body": "You’re not invited to the account you’re trying to log into. If you have an account with 'gtmhub.com' please try logging with it. If not contact support."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Server error",
+        "Body": "We are experiencing issues with our servers. Try to refresh the page or try again later."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Action not supported",
+        "Body": "This action isn't supported by this trigger. Only actions that are supported by this trigger will be executed."
     }
-]
+] 
