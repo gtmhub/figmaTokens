@@ -1,22 +1,51 @@
 [
     {
-        "meta": "error banner",
+        "meta": "error alert",
         "Title": "No internet connection",
         "Body": "Check your internet connection and try again."
     },
     {
-        "meta": "info banner",
+        "meta": "error alert",
+        "Title": "Login unsuccessful",
+        "Body": "We were not able to log you into your account. Please check your credentials and try again."
+    },
+    {
+        "meta": "info alert",
         "Title": "Automate your Key Results",
         "Body": "Track progress automatically with data-source insights."
     },
     {
-        "meta": "success baner",
+        "meta": "success alert",
         "Title": "You're connected to Gtmhub",
         "Body": "You can now use SSO to log in."
     },
     {
-        "meta": "warning banner",
+        "meta": "warning alert",
         "Title": "Password expires in 3 days",
-        "Body": "Update your password to continue using Gtmhub,"
+        "Body": "Update your password to continue using Gtmhub."
+    },
+    {
+        "meta": "warning alert",
+        "Title": "Upload error",
+        "Body": "File is too large. Please use a file that is under 25MB."
+    },
+    {
+        "meta": "warning alert",
+        "Title": "Upload error",
+        "Body": "If you send email you may notify people who don't have access to the specific OKRs."
+    },
+    {
+        "meta": "warning alert",
+        "Title": "Upload error",
+        "Body": "If you send message in a Slack channel you may notify people who don't have access to the specific OKRs."
+    },
+    {
+        "meta": "warning alert",
+        "Title": "Alignment cycle",
+        "Body": "Some of your OKRs link to each other. You need to check the alignment links in the whiteboard and destroy any cycle."
+    },
+    {
+        "meta": "warning alert",
+        "Body": "There is another tag with the same name. If you decide to proceed they will be merged together. This action is irreversible!"
     }
 ]

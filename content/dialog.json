@@ -1,22 +1,307 @@
 [
     {
-        "meta": "informational dialog",
+        "meta": "default dialog",
+        "Title": "No OKRs to publish",
+        "Body": "This whiteboard has no draft OKRs. Draft Objectives, align them, and publish everything."
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Cannot add a Key Result",
+        "Body": "The current session status is “In progress”. You can add new Key Results to objectives belonging only to “Open” sessions."
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Activate user?",
+        "Body": "When you activate Wade Warren at wade.warren@mail.com, the user will regain access to Quantive Results and be able to own OKRs."
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Activate team?",
+        "Body": "Sales2022 team will be able to own OKRs."
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Decline Objective?",
+        "Body": "The Objective “Recruit the top talent” workflow status will become “Draft” and the Objective owner will need to resend it for approval."
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Approve Objective?",
+        "Body": "The Objective “Recruit the top talent” will start contribute to company objectives."
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Set mapping through SSO?",
+        "Body": "Through SSO, provisioning occurs only when users log in, meaning roles are managed manually. Learn more"
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Set up SSO?",
+        "Body": "Through SSO, provisioning occurs only when users log in, meaning roles are managed manually. Learn more"
+    },
+    {
+        "meta": "default dialog",
+        "Title": "Set up SCIM?",
+        "Body": "Through SCIM, provisioning occurs regularly, allowing roles to be managed automatically from your idP. Learn more"
+    },
+    {
+        "meta": "pricing dialog",
         "Title": "You're on the Essentials plan",
         "Body": "Welcome to Essentials. This free plan gives you the basics needed to be successful with OKRs."
     },
     {
-        "meta": "success dialog",
-        "Title": "Activate username?",
-        "Body": "They'll have access to your organization's files."
+        "meta": "pricing dialog",
+        "Title": "You're on the new Scale plan",
+        "Body": "We've simplified our plans. Don't worry: all the features you know and love are here to stay. We've put you on Scale for the next 90 days with your current price. \n If you haven't upgraded by [date], you'll be switched to our free Essentials plan."
+    },
+    {
+        "meta": "pricing dialog",
+        "Title": "Upgrade to have SCIM",
+        "Body": "SCIM group to role mapping is a premium feature of our Enterprise plan. Upgrade to have SCIM setup available."
+    },
+    {
+        "meta": "pricing dialog",
+        "Title": "License limit reached",
+        "Body": "You already have the maximum number (249) of standard licenses. To activate [user email] upgrade your plan, deactivate an inactive user, or add them under a restricted license."
+    },
+    {
+        "meta": "pricing dialog",
+        "Title": "Downgrade to Essentials?",
+        "Body": "Choosing Essentials will result in losing features you've been using like Insightboards, Custom fields, KPIs, Badges, and Reports."
     },
     {
         "meta": "warning dialog",
-        "Title": "Deactivate username?",
-        "Body": "Data related to this user will remain visible. They can be reactivated at any time.."
+        "Title": "Deactivate user?",
+        "Body": "Tomas Anderson at tomas@gtmhub.com will lose access to Quantive Results but will remain visible and can be re-activated anytime."
     },
     {
-        "meta": "destructive dialog",
-        "Title": "Delete username?",
-        "Body": "Any data related to them will be deleted. This can't be undone."
+        "meta": "warning dialog",
+        "Title": "Deactivate team?",
+        "Body": "Deactivated teams will still be visible, but can't own OKRs. You can reactivate the team at any time."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Withdraw Objective?",
+        "Body": "The Objective “Recruit the top talent” workflow status will become “Draft” and the current approval will be lost."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Change user role?",
+        "Body": "Changing the role to view-only will chanage the user license to restricted. Restricted license users can monitor your organization's progress, create Whiteboards, and write comments. You can have unlimited restricted users."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Cascade Key Result?",
+        "Body": "This Key Result is dynamic. If you proceed with cascading, this Key Result will stop having dynamic progress."
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Set mapping through SCIM?",
+        "Body": "SCIM will replace all current user roles. Through SCIM, provisioning occurs regularly, allowing roles to be managed automatically from your idP. Learn more"
+    },
+    {
+        "meta": "warning dialog",
+        "Title": "Save insight changes?",
+        "Body": "Saving these changes will affect 9 items where used. \n Duplicate the insight in order to save only to the item you were editing."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete custom field?",
+        "Body": "The “Custom field name” will be deleted. This action cannot be undone. \n This custom field is assigned to 11 amount of items. Once deleted the information will not be visible."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete 4 OKRs?",
+        "Body": "Once deleted, the Objectives and any related info, like Key Results, comments and updates, will be lost. This can't be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete automation?",
+        "Body": "The “Automation name” will be deleted. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete insightboard parameter?",
+        "Body": "The “Insightboard parameter name” will be deleted. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete SSO connection?",
+        "Body": "Users will not be able to sign in into Gtmhub using SSO, and group to role mapping through SSO will be inactive. You can reconnect at any time. "
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete demo session?",
+        "Body": "If you delete the session the Objectives that are in this session will be deleted and they could not be reverted."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete insight?",
+        "Body": "The insight “Long insight name” will be deleted with all the related data. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete list?",
+        "Body": "The “List name” will be deleted. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete Key Result?",
+        "Body": "The “Key Result name” will be deleted. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete filter?",
+        "Body": "Filter “Long filter name” will be deleted forever. This action cannot be undone"
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete tag?",
+        "Body": "All the data related to this tag in OKRs, Insightboards or Reports will be deleted. This action cannot be undone. \n This tag is being used in 42 OKRs, Insightboards or reports. By deleting it, all data will be lost. This action is irreversible!"
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete badge?",
+        "Body": "The “Rocky” badge will be removed from all users and teams and will be deleted. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete role?",
+        "Body": "The role “Manager” will be removed from all users and wil be deleted. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete team?",
+        "Body": "When you delete “TeamA” all teams aligned under it will move one level up (to its team or top level). This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete OKR?",
+        "Body": "When you delete “Improve Sales Effectiveness” OKR all of its child OKRs will align to its parent or will become top level. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete task?",
+        "Body": "When you delete “Become a better designer.” task all of its updates and progress will be lost. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete KPI?",
+        "Body": "When you delete “MRR (Scale)” KPI all of its progress updates will be lost. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete KPI group?",
+        "Body": "When you delete the “GroupOfKPIs” group all of its KPIs will appear under “Ungrouped”. You can always create it again."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete user?",
+        "Body": "The user “tomas@anderson.com” and all the data connected to him will be deleted. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete whiteboard?",
+        "Body": "Whiteboard “Long whiteboard name” will be deleted forever. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete entity?",
+        "Body": "If you delete this entity all insights using data from it will break. Also the dynamic Key Results based on the affected insights won't update anymore. If you still want to delete the entity, please type its name in the input field below. To delete the entity, please enter its name below."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete data source?",
+        "Body": "If you delete this data source entities powered by this data source will be deleted too. All insights using data from deleted entities will break. Dynamic Key Results based on the affected insights won't update anymore. To delete the data source, please enter its name below."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete session?",
+        "Body": "The Objectives that are in this session “Q3 2022” will be moved to OKRs > Browse sessions > Objectives without a session. Once there, they cannot be edited. If you decide to move them back to a session, the alignment tree you had will be reproduced as it was. This action cannot be undone."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete insightboard?",
+        "Body": "This action cannot be undone. To delete the insightboard, please enter its name below."
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete condition?",
+        "Body": "The actions that are related with this condition will also be deleted and can't be restored. To delete the condition, enter the automation's name below:"
+    },
+    {
+        "meta": "danger dialog",
+        "Title": "Delete connection?",
+        "Body": "Data sources using this connection and their entities will be deleted too. All insights using data from deleted entities will break. Dynamic Key Results based on the affected insights won't update anymore. To delete the connection, please enter its name below."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Permissions needed",
+        "Body": "You need permission to edit this Key Result. Ask your admin to grant you permissions. \n If this problem persists, contact our team and include these technical details: \n ID: 62ea0e232e3f412816872c4d \n Transaction ID: c2122361-5dd0-4816-8032-e724ae418c43"
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Permissions needed",
+        "Body": "You need permission to edit this Whiteboard. Ask your admin to grant you permissions."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Permissions needed",
+        "Body": "You need permission to update this Key Result. Ask your admin to grant you permissions."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Permissions needed",
+        "Body": "You need permissions to create OKRs in Q2 2023 session. Ask your admin to grant you permissions."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Permissions needed",
+        "Body": "You need permissions to access this item. Ask your admin to grant you permissions."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Not available",
+        "Body": "We cannot find the item you are looking for. Ask your admin for further assistance."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Not available",
+        "Body": "We cannot find the OKR you are looking for. Ask your admin for further assistance."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Not available",
+        "Body": "We cannot find the Whiteboard you are looking for. Ask your admin for further assistance."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Not available",
+        "Body": "We cannot find the Key Result you are looking for. Ask your admin for further assistance."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Unexpected error",
+        "Body": "We have trouble processing your request. Please try again or contact our team."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Request was denied",
+        "Body": "There are some network connectivity issues. This could be caused by temporary network failure with your Internet connection. If this message persists appearing and you are using any security tool, please consider adding an exception for 'gtmhub.com'. Remember that Gtmhub does not serve any ads, nor anything else to disturb your privacy. \n Check status at https://status.gtmhub.com/"
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Login error",
+        "Body": "There has been an error logging in via the invite link."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Login error",
+        "Body": "You're not invited to the account you're trying to log into. If you have an account with 'gtmhub.com' please try logging with it. If not contact support."
+    },
+    {
+        "meta": "error dialog",
+        "Title": "Server error",
+        "Body": "We are experiencing issues with our servers. Try to refresh the page or try again later."
     }
-]
+] 
