@@ -2,14 +2,25 @@
     {
         "meta": "onboarding singular",
         "Title": "Data will remain visible",
+<<<<<<< HEAD
         "Body": "Even if users are removed from these permissions, they'll still be able to view values derived from this data in Key Results, KPIs and Insighboards.",
         "Label2": "Got it"
+=======
+        "Body": "Even if users are removed from these permissions, they’ll still be able to view values derived from this data in Key Results, KPIs and Insighboards.",
+        "CTA": "Got it"
+>>>>>>> parent of af862a8 (Update onboarding.json)
     },
     {
         "meta": "onboarding multi",
         "Title": "Compare weeks",
+<<<<<<< HEAD
         "Body": "Compare this week's Reflection to the previous week to spot trends and keep track of progress.",
         "Label1": "Back",
         "Label2": "Next"
+=======
+        "Body": "Compare this week’s Reflection to the previous week to spot trends and keep track of progress.",
+        "CTA1": "Back",
+        "CTA2": "Next"
+>>>>>>> parent of af862a8 (Update onboarding.json)
     }
 ]
