@@ -3,6 +3,7 @@
         "meta": "onboarding singular",
         "Title": "Data will remain visible",
         "Body": "Even if users are removed from these permissions, they'll still be able to view values derived from this data in Key Results, KPIs and Insighboards.",
+        "Label1": "",
         "Label2": "Got it"
     },
     {
