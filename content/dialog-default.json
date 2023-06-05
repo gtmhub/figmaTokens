@@ -1,0 +1,56 @@
+[
+     {
+        "title":        "No OKRs to publish",
+        "body":         "This whiteboard has no draft OKRs. Draft Objectives, align them, and publish everything.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Cannot add a Key Result",
+        "body":         "The current session status is “In progress”. You can add new Key Results to objectives belonging only to “Open” sessions.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Activate user?",
+        "body":         "When you activate Wade Warren at wade.warren@mail.com, the user will regain access to Quantive Results and be able to own OKRs.",
+        "btn-primary":  "Activate user",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Activate team?",
+        "body":         "Sales2022 team will be able to own OKRs.",
+        "btn-primary":  "Activate team",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Decline Objective?",
+        "body":         "The Objective “Recruit the top talent” workflow status will become “Draft” and the Objective owner will need to resend it for approval.",
+        "btn-primary":  "Decline Objective",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Approve Objective?",
+        "body":         "The Objective “Recruit the top talent” will start contribute to company objectives.",
+        "btn-primary":  "Approve Objective",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Set mapping through SSO?",
+        "body":         "Through SSO, provisioning occurs only when users log in, meaning roles are managed manually. Learn more",
+        "btn-primary":  "Set through SSO",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Set up SSO?",
+        "body":         "Through SSO, provisioning occurs only when users log in, meaning roles are managed manually. Learn more",
+        "btn-primary":  "Setup SSO",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Set up SCIM?",
+        "body":         "Through SCIM, provisioning occurs regularly, allowing roles to be managed automatically from your idP. Learn more",
+        "btn-primary":  "Setup SCIM",
+        "btn-tertiary": "Cancel"
+    }
+]

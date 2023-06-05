@@ -1,0 +1,92 @@
+[
+     {
+        "title":        "Permissions needed",
+        "body":         "You need permission to edit this Key Result. Ask your admin to grant you permissions. If this problem persists, contact our team and include these technical details: ID: 62ea0e232e3f412816872c4d Transaction ID: c2122361-5dd0-4816-8032-e724ае418c43",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Permissions needed",
+        "body":         "You need permission to edit this Whiteboard. Ask your admin to grant you permissions.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Permissions needed",
+        "body":         "You need permission to update this Key Result. Ask your admin to grant you permissions.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Permissions needed",
+        "body":         "You need permissions to create OKRs in Q2 2023 session. Ask your admin to grant you permissions.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Permissions needed",
+        "body":         "You need permissions to access this item. Ask your admin to grant you permissions.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Not available",
+        "body":         "We cannot find the item you are looking for. Ask your admin for further assistance.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Not available",
+        "body":         "We cannot find the OKR you are looking for. Ask your admin for further assistance.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Not available",
+        "body":         "We cannot find the Whiteboard you are looking for. Ask your admin for further assistance.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Not available",
+        "body":         "We cannot find the Key Result you are looking for. Ask your admin for further assistance.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Bad request",
+        "body":         "The server cannot process the request due to an apparent client error. Error message: goals can be updated only in sessions that are open. Transaction ID: 9a015d6d-55a5-4eef-86a6-07cf8fdfc310 If this problem persists please contact our team.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Unexpected error",
+        "body":         "We have trouble processing your request. Please try again or contact our team.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Request was denied",
+        "body":         "There are some network connectivity issues. This could be caused by temporary network failure with your Internet connection. If this message persists appearing and you are using any security tool, please consider adding an exception for 'gtmhub.com'. Remember that Gtmhub does not serve any ads, nor anything else to disturb your privacy. Check status at https://status.gtmhub.com/",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Login error",
+        "body":         "There has been an error logging in via the invite link.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Login error",
+        "body":         "You're not invited to the account you're trying to log into. If you have an account with 'gtmhub.com' please try logging with it. If not contact support.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    },
+    {
+        "title":        "Server error",
+        "body":         "We are experiencing issues with our servers. Try to refresh the page or try again later.",
+        "btn-primary":  "Close",
+        "btn-tertiary": ""
+    }
+]
