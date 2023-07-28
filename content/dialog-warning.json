@@ -1,0 +1,44 @@
+[
+     {
+        "title":        "Deactivate user?",
+        "body":         "Tomas Anderson at tomas@gtmhub.com will lose access to Quantive Results but will remain visible and can be re-activated anytime.",
+        "btn-primary":  "Deactivate user",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Deactivate team?",
+        "body":         "Deactivated teams will still be visible, but can’t own OKRs. The team can be reactivated at any time.",
+        "btn-primary":  "Deactivate team",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Withdraw Objective?",
+        "body":         "The Objective “Recruit the top talent” workflow status will become “Draft” and the current approval will be lost.",
+        "btn-primary":  "Withdraw Objective",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Change user role?",
+        "body":         "Changing the role to view-only will chanage the user license to restricted. Restricted license users can monitor your organization's progress, create Whiteboards, and write comments. You can have unlimited restricted users.",
+        "btn-primary":  "Change role",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Cascade Key Result?",
+        "body":         "This Key Result is dynamic. If you proceed with cascading, this Key Result will stop having dynamic progress.",
+        "btn-primary":  "Cascade Key Result",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Set mapping through SCIM?",
+        "body":         "SCIM will replace all current user roles. Through SCIM, provisioning occurs regularly, allowing roles to be managed automatically from your idP. Learn more",
+        "btn-primary":  "Set through SCIM",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "title":        "Save insight changes?",
+        "body":         "Saving these changes will affect 9 items where used. Duplicate the insight in order to save only to the item you were editing.",
+        "btn-primary":  "Save changes",
+        "btn-tertiary": "Cancel"
+    }
+]

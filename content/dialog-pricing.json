@@ -1,0 +1,32 @@
+[
+    {
+        "title":        "Upgrade to have SCIM",
+        "body":         "SCIM group to role mapping is a premium feature of our Enterprise plan. Upgrade to have SCIM setup available.",
+        "btn-primary":  "Upgrade plan",
+        "btn-tertiary": "Maybe later"
+    },
+    {
+        "title":        "License limit reached",
+        "body":         "You already have the maximum number (249) of standard licenses. To activate 'user email' upgrade your plan, deactivate an inactive user, or add them under a restricted license.",
+        "btn-primary":  "Contact us",
+        "btn-tertiary": "Maybe later"
+    },
+    {
+        "title":        "Downgrade to Essentials?",
+        "body":         "Choosing Essentials will result in losing features you've been using like Insightboards, Custom fields, KPIs, Badges, and Reports.",
+        "btn-primary":  "Continue",
+        "btn-tertiary": "Maybe later"
+    },
+    {
+        "title":        "You're on the Essentials Plan",
+        "body":         "Welcome to Essentials. This free plan gives you the basics needed to be successful with OKRs.",
+        "btn-primary":  "Upgrade to Scale",
+        "btn-tertiary": "Maybe later"
+    },
+    {
+        "title":        "You're on the new Scale plan",
+        "body":         "We've simplified our plans. Don't worry: all the features you know and love are here to stay. We've put you on Scale for the next 90 days with your current price.If you haven't upgraded by [date], you'll be switched to our free Essentials plan.",
+        "btn-primary":  "Upgrade plan",
+        "btn-tertiary": "Maybe later"
+    }
+]
