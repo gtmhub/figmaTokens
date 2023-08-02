@@ -1,0 +1,158 @@
+[
+    {
+        "Title": "Delete custom field?",
+        "Body": "The “Custom field name” will be deleted. This action cannot be undone. \n This custom field is assigned to 11 amount of items. Once deleted the information will not be visible.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete 4 OKRs?",
+        "Body": "Once deleted, the Objectives and any related info, like Key Results, comments and updates, will be lost. This can't be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete automation?",
+        "Body": "The “Automation name” will be deleted. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete insightboard parameter?",
+        "Body": "The “Insightboard parameter name” will be deleted. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete SSO connection?",
+        "Body": "Users will not be able to sign in into Gtmhub using SSO, and group to role mapping through SSO will be inactive. You can reconnect at any time. ",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete demo session?",
+        "Body": "If you delete the session the Objectives that are in this session will be deleted and they could not be reverted.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete insight?",
+        "Body": "The insight “Long insight name” will be deleted with all the related data. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete list?",
+        "Body": "The “List name” will be deleted. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete Key Result?",
+        "Body": "The “Key Result name” will be deleted. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete filter?",
+        "Body": "Filter “Long filter name” will be deleted forever. This action cannot be undone",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete tag?",
+        "Body": "All the data related to this tag in OKRs, Insightboards or Reports will be deleted. This action cannot be undone. \n This tag is being used in 42 OKRs, Insightboards or reports. By deleting it, all data will be lost. This action is irreversible!",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete badge?",
+        "Body": "The “Rocky” badge will be removed from all users and teams and will be deleted. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete role?",
+        "Body": "The role “Manager” will be removed from all users and wil be deleted. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete team?",
+        "Body": "When you delete “TeamA” all teams aligned under it will move one level up (to its team or top level). This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete OKR?",
+        "Body": "When you delete “Improve Sales Effectiveness” OKR all of its child OKRs will align to its parent or will become top level. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete task?",
+        "Body": "When you delete “Become a better designer.” task all of its updates and progress will be lost. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete KPI?",
+        "Body": "When you delete “MRR (Scale)” KPI all of its progress updates will be lost. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete KPI group?",
+        "Body": "When you delete the “GroupOfKPIs” group all of its KPIs will appear under “Ungrouped”. You can always create it again.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete user?",
+        "Body": "The user “tomas@anderson.com” and all the data connected to him will be deleted. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete whiteboard?",
+        "Body": "Whiteboard “Long whiteboard name” will be deleted forever. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete entity?",
+        "Body": "If you delete this entity all insights using data from it will break. Also the dynamic Key Results based on the affected insights won't update anymore. If you still want to delete the entity, please type its name in the input field below. To delete the entity, please enter its name below.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete data source?",
+        "Body": "If you delete this data source entities powered by this data source will be deleted too. All insights using data from deleted entities will break. Dynamic Key Results based on the affected insights won't update anymore. To delete the data source, please enter its name below.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete session?",
+        "Body": "The Objectives that are in this session “Q3 2022” will be moved to OKRs > Browse sessions > Objectives without a session. Once there, they cannot be edited. If you decide to move them back to a session, the alignment tree you had will be reproduced as it was. This action cannot be undone.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete insightboard?",
+        "Body": "This action cannot be undone. To delete the insightboard, please enter its name below.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete condition?",
+        "Body": "The actions that are related with this condition will also be deleted and can't be restored. To delete the condition, enter the automation's name below:",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    },
+    {
+        "Title": "Delete connection?",
+        "Body": "Data sources using this connection and their entities will be deleted too. All insights using data from deleted entities will break. Dynamic Key Results based on the affected insights won't update anymore. To delete the connection, please enter its name below.",
+        "btn-primary":  "Delete",
+        "btn-tertiary": "Cancel"
+    }
+] 
